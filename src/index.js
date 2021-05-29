@@ -1,1 +1,4 @@
-console.log("pol");
+import React from "react";
+import ReactDOM from "react-dom";
+
+ReactDOM.render(<h1>Hola capullo!</h1>, document.getElementById("app"));
